@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nandini-Sandeep
-- 👀 I’m interested in programming, dance, music, learning languages, anime and dramas.
 - 🌱 I’m currently learning C++. I have past experience with Python, Javascript, MySQL.
 
 
