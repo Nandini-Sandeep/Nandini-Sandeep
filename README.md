@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nandini-Sandeep
-- 🌱 I’m currently learning C++. I have past experience with Python, Javascript, MySQL.
+- 🌱 I’m currently learning C++. I have past experience with Python, Javascript, MySQL, HTML and CSS.
 
 
 <!---
